@@ -32,18 +32,4 @@ I am a Software Engineering Student from Morocco.
 
   
   
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Abdellahstaitay/README.md at main · AbdellahStaitay/Abdellahstaitay
+
