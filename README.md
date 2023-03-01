@@ -1,35 +1,27 @@
+<h1 align="center">Hi 👋, I'm Abdellah</h1>
+<h3 align="center">A passionate software engineering student from Morocco</h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
-  
-  <h1>
-    Hey there, I'm Abdellah!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  </div>
-  
-  
-  ### :technologist: About Me :
-I am a Software Engineering Student from Morocco.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdellahstaitay&label=Profile%20views&color=0e75b6&style=flat" alt="abdellahstaitay" /> </p>
 
-- I’ve been actively studying the full stack for less than year. Quickly learn new information, have good analytical skills, attentive to details, work well on my own and in a team. Read much specialized literature. I like to achieve perfection in everything I do.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdellahstaitay" alt="abdellahstaitay" /></a> </p>
 
-🌐 Languages : Arabic, English, Some French Crumbs.
+- 🌱 I’m currently learning **C, Python, Html**
 
----
+- 💬 Ask me about **C, Pandas, Selenium**
 
-### My stack and tools :
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Github" width="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="Github" width="40"/>&nbsp;
-	 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="Github" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github"  alt="Github" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
-</div>
+- 📫 How to reach me **abdellahstaitay@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abdellahstaitay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdellahstaitay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdellahstaitay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdellahstaitay" height="30" width="40" /></a>
+<a href="https://kaggle.com/abdellahstaitay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdellahstaitay" height="30" width="40" /></a>
+<a href="https://instagram.com/abdellahstaitay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdellahstaitay" height="30" width="40" /></a>
+</p>
 
-  
-  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellahstaitay&show_icons=true&locale=en&layout=compact" alt="abdellahstaitay" /></p>
+
 
